@@ -1,4 +1,4 @@
-# Desafio URI - BeeCrowd 1005.
+# Desafio URI - BeeCrowd 1006.
 # "Average 2"
 A = float(input())
 B = float(input())
