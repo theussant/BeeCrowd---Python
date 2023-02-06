@@ -1,4 +1,4 @@
-# Desafio URI - BeeCrowd 1010   .
+# Desafio URI - BeeCrowd 1010.
 # "Simple Calculate"
 produto1 = input("Digite o Código, Unidade e Preço:\n").split(" ")
 produto2 = input("Digite o Código, Unidade e Preço:\n").split(" ")
